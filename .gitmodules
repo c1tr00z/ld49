@@ -1,0 +1,3 @@
+[submodule "LD49/Assets/AssistLib"]
+	path = LD49/Assets/AssistLib
+	url = git@github.com:c1tr00z/assist-lib-git-submodule.git
